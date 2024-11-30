@@ -1,0 +1,12 @@
+spotify:
+  client_id: "c4c5260ea0f64680b1e3043c430eb567"
+  client_secret: "9b2db4d2398441528c30fe2056672f10"
+  redirect_uri: "http://localhost:3000"
+  scope: "user-top-read"
+
+genius:
+  access_token: "PuJYHWUPPue7lCiG330tZRS5sPjU4v6ZAc1mXz2OvMFIqGgfPwutJelziCBtcOmt"
+
+logging:
+  level: "DEBUG"
+  file: "logs/app.log"
